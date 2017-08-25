@@ -14,7 +14,7 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 
 This app will store every burger in a database(mysql), whether devoured or not.
 
-##How To Set Up And Run
+## How To Set Up And Run
 
 Download this repository. 
 
@@ -28,7 +28,7 @@ In db folder, open schema.sql file and copy its sql command. In your mysql workb
  
  Open your browser and  navigate to http://localhost:8080/ to see the example in action. 
 
- ##Seqeulized Version
+ ## Seqeulized Version
 
 For a sequelize version of this app go to [Sequelize Burger](https://github.com/milucf/sequelizedBurger)
 
