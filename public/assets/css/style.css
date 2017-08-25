@@ -6,8 +6,7 @@
 
         .bgm {
             background-color: #fc7;
-            min-height: 400px;
-            padding: 200px 50px;
+            padding: 10px 50px;
         }
 
         .bgr {
@@ -24,6 +23,10 @@
         h2{
             color: #fff;
             font-family: cursive;
+        }
+
+        .img-center{
+            margin: 0px auto;
         }
 
  
